@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <string name="actionGroupSpoiler">Brakes</string>
+    <string name="actionGroupIncreaseFlapDeflection">None</string>
+    <string name="actionGroupDecreaseFlapDeflection">None</string>
+    <rect name="flight_mainGuiRect">
+        <xmin>0</xmin>
+        <xmax>230</xmax>
+        <ymin>0</ymin>
+        <ymax>338</ymax>
+    </rect>
+    <rect name="flight_dataGuiRect">
+        <xmin>425</xmin>
+        <xmax>723</xmax>
+        <ymin>409</ymin>
+        <ymax>1125</ymax>
+    </rect>
+    <rect name="flight_settingsGuiRect">
+        <xmin>0</xmin>
+        <xmax>0</xmax>
+        <ymin>0</ymin>
+        <ymax>0</ymax>
+    </rect>
+    <rect name="flight_debugGuiRect">
+        <xmin>0</xmin>
+        <xmax>0</xmax>
+        <ymin>0</ymin>
+        <ymax>0</ymax>
+    </rect>
+</config>

@@ -24,12 +24,12 @@ To install this modpack:
 
 2. Download and install [GitHub Desktop](https://desktop.github.com/download/)
 3. Click `File --> Clone a repository` then the `URL` tab
-4. Enter `https://github.com/JimmyFiryh/HEKV-Modpack` 
+4. Enter `https://github.com/dundun92/KRL-Modpack` 
 5. Click `Choose...` and pick your empty `GameData` directory, DO NOT CLICK CLONE YET!
 
 ***IMPORTANT*** - Before clicking `Clone` you MUST do Step 6:
 
-6. In `Local Path`, Delete `/HEKV-Modpack` from the end so that the directory *actually* terminates at `GameData`, and not `GameData/HEKV-Modpack`
+6. In `Local Path`, Delete `/KRL-Modpack` from the end so that the directory *actually* terminates at `GameData`, and not `GameData/KRL-Modpack`
 7. Now click `Clone`
 8. Move your Squad folder and any VisMods back into `GameData`
 
@@ -46,8 +46,8 @@ To update this modpack (whenever one is announced for a new episode or fix patch
 
 ---
 
-# Defkon 2 Modpack
+# Kerbal Racing League Modpack
 
-This is the modpack for Defkon 2, excluding visual mods.
+This is the modpack for KRL, excluding visual mods.
 
-For visual mods, support, or complaints, yell at me on my [Discord](https://discord.gg/uEakYju) or DM either @firyh or @android_elite
+For visual mods, support, or complaints, yell at me on Jimmy's [Discord](https://discord.gg/uEakYju) or DM @dundun92 or @firyh

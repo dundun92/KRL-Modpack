@@ -1,0 +1,36 @@
+{
+  "NAME": "SXTContinued",
+  "URL": "https://raw.githubusercontent.com/linuxgurugamer/SXTContinued/refs/heads/master/SXTContinued.version",
+  "DOWNLOAD": "https://github.com/linuxgurugamer/SXTContinued/releases",
+  "GITHUB": {
+    "USERNAME": "linuxgurugamer",
+    "REPOSITORY": "SXTContinued"
+  },
+  "VERSION": {
+    "MAJOR": 0,
+    "MINOR": 3,
+    "PATCH": 30,
+    "BUILD": 0
+  },
+  "KSP_VERSION": {
+    "MAJOR": 1,
+    "MINOR": 12,
+    "PATCH": 5
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 12,
+    "PATCH": 0
+  },
+  "KSP_VERSION_MAX": {
+    "MAJOR": 1,
+    "MINOR": 12,
+    "PATCH": 99
+  },
+  "INSTALL_LOC_1": {
+    "NAME": "SXTContinued",
+    "PATH": "",
+    "DIRECTORY": "SXT",
+    "FILE": "SXTContinued.version"
+  }
+}
