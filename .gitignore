@@ -37,11 +37,13 @@
 /UnityExplorerKSP/
 /ZTheme/
 /zzz_Deferred/
+/BDArmory/Logs/
 
 /ModuleManager.ConfigCache
 /ModuleManager.ConfigSHA
 /ModuleManager.Physics
 /ModuleManager.TechTree
+/toolbar-settings.dat
 
 #!TweakScale/patches/Squad/
 #!TweakScale/patches/SquadExpansion/
