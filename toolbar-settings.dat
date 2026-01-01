@@ -17,5 +17,242 @@ toolbars
 			followKSPAppScale = False
 			followKSPUIScale = True
 		}
+		toolbar_713508437
+		{
+			x = 300
+			y = 300
+			width = 250
+			height = 0
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+			scale = 24
+			followKSPAppScale = False
+			followKSPUIScale = True
+		}
+		toolbar_231340414
+		{
+			x = 300
+			y = 300
+			width = 250
+			height = 0
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+			scale = 24
+			followKSPAppScale = False
+			followKSPUIScale = True
+		}
+		toolbar_896068809
+		{
+			x = 300
+			y = 300
+			width = 250
+			height = 0
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+			scale = 24
+			followKSPAppScale = False
+			followKSPUIScale = True
+		}
+		toolbar_1617658425
+		{
+			x = 300
+			y = 300
+			width = 250
+			height = 0
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+			scale = 24
+			followKSPAppScale = False
+			followKSPUIScale = True
+		}
+		toolbar_846754944
+		{
+			x = 300
+			y = 300
+			width = 250
+			height = 0
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+			scale = 24
+			followKSPAppScale = False
+			followKSPUIScale = True
+		}
+		toolbar_346139193
+		{
+			x = 300
+			y = 300
+			width = 250
+			height = 0
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+			scale = 24
+			followKSPAppScale = False
+			followKSPUIScale = True
+		}
+		toolbar_2029653917
+		{
+			x = 300
+			y = 300
+			width = 250
+			height = 0
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+			scale = 24
+			followKSPAppScale = False
+			followKSPUIScale = True
+		}
+		toolbar_1033726787
+		{
+			x = 300
+			y = 300
+			width = 250
+			height = 0
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+			scale = 24
+			followKSPAppScale = False
+			followKSPUIScale = True
+		}
+		toolbar_2082245352
+		{
+			x = 300
+			y = 300
+			width = 250
+			height = 0
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+			scale = 24
+			followKSPAppScale = False
+			followKSPUIScale = True
+		}
+		toolbar_946957620
+		{
+			x = 300
+			y = 300
+			width = 250
+			height = 0
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+			scale = 24
+			followKSPAppScale = False
+			followKSPUIScale = True
+		}
+		toolbar_447119850
+		{
+			x = 300
+			y = 300
+			width = 250
+			height = 38
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+			scale = 24
+			followKSPAppScale = False
+			followKSPUIScale = True
+		}
+	}
+	SPACECENTER
+	{
+		toolbar_1054015414
+		{
+			x = 300
+			y = 300
+			width = 250
+			height = 38
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+			scale = 24
+			followKSPAppScale = False
+			followKSPUIScale = True
+		}
+	}
+	EDITOR
+	{
+		toolbar_447119850
+		{
+			x = 300
+			y = 300
+			width = 250
+			height = 38
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+			scale = 24
+			followKSPAppScale = False
+			followKSPUIScale = True
+		}
+	}
+	FLIGHT
+	{
+		toolbar_1576722680
+		{
+			x = 300
+			y = 300
+			width = 250
+			height = 38
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+			scale = 24
+			followKSPAppScale = False
+			followKSPUIScale = True
+		}
+	}
+	FLIGHTMAP
+	{
+		toolbar_352193367
+		{
+			x = 300
+			y = 300
+			width = 250
+			height = 38
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+			scale = 24
+			followKSPAppScale = False
+			followKSPUIScale = True
+		}
 	}
 }

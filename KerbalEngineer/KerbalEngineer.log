@@ -1,0 +1,66 @@
+Executing: KerbalEngineer - 1.1.9.5
+Assembly: C:\Users\wbenn\Games\Kerbal Space Program\KSP 1.12.5 KRL\GameData\KerbalEngineer\KerbalEngineer.dll
+
+[Log 01:49:11.3125998]: images (UnityEngine.AssetBundle)
+[Log 01:50:29.6236287]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: Scale_Redist, Version=3.2.4.0, Culture=neutral, PublicKeyToken=null
+Assembly: ModuleManager, Version=4.2.3.0, Culture=neutral, PublicKeyToken=null
+Assembly: ClickThroughBlocker, Version=2.1.10.22, Culture=neutral, PublicKeyToken=null
+Assembly: 0Harmony, Version=2.2.1.0, Culture=neutral, PublicKeyToken=null
+Assembly: HarmonyInstallChecker, Version=2.2.1.0, Culture=neutral, PublicKeyToken=null
+Assembly: KSPBurst, Version=1.5.5.2, Culture=neutral, PublicKeyToken=null
+Assembly: Microsoft.Extensions.FileSystemGlobbing, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+Assembly: System.IO.Compression, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Assembly: System.IO.Compression.FileSystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Assembly: System.Runtime.CompilerServices.Unsafe, Version=4.0.6.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Assembly: System.Runtime, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Assembly: Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: Unity.Burst.Unsafe, Version=4.0.5.0, Culture=neutral, PublicKeyToken=null
+Assembly: Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: Unity.Jobs, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: BlendshapeModelLoader, Version=1.6.3.29, Culture=neutral, PublicKeyToken=null
+Assembly: TexturesUnlimited, Version=1.6.3.29, Culture=neutral, PublicKeyToken=null
+Assembly: ToolbarControl, Version=0.1.9.14, Culture=neutral, PublicKeyToken=null
+Assembly: B9PartSwitch, Version=2.19.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: B9-PWings-Fork, Version=0.47.3.0, Culture=neutral, PublicKeyToken=null
+Assembly: BDArmory, Version=1.12.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: ConformalDecals, Version=0.2.10.0, Culture=neutral, PublicKeyToken=null
+Assembly: CustomPreLaunchChecks, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: EditorExtensionsRedux, Version=3.4.6.1, Culture=neutral, PublicKeyToken=null
+Assembly: FerramAerospaceResearch.Base, Version=0.16.1.2, Culture=neutral, PublicKeyToken=null
+Assembly: ModularFlightIntegrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: FerramAerospaceResearch, Version=0.16.1.2, Culture=neutral, PublicKeyToken=null
+Assembly: ferramGraph, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: Firespitter, Version=7.3.7660.26532, Culture=neutral, PublicKeyToken=null
+Assembly: JanitorsCloset, Version=0.3.9.0, Culture=neutral, PublicKeyToken=null
+Assembly: KerbalEngineer.Unity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: KerbalEngineer, Version=1.1.9.5, Culture=neutral, PublicKeyToken=null
+Assembly: KerbalJointReinforcementNext, Version=4.2.28.0, Culture=neutral, PublicKeyToken=null
+Assembly: KerbalKonstructs, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: Graphotron, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+Assembly: 0_MultipleModuleInPartAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: KSPCommunityFixes, Version=1.37.3.0, Culture=neutral, PublicKeyToken=null
+Assembly: KSPWheel, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: StardustUtilities, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: PhysicsRangeExtender, Version=1.21.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: KSP_Log, Version=1.2.0.1, Culture=neutral, PublicKeyToken=null
+Assembly: PreciseEditor, Version=1.5.0.1, Culture=neutral, PublicKeyToken=null
+Assembly: ProceduralParts, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: RCSBuildAid, Version=1.0.6.35359, Culture=neutral, PublicKeyToken=null
+Assembly: Shabby, Version=0.2.7.0, Culture=neutral, PublicKeyToken=null
+Assembly: SmartParts, Version=1.10.1.0, Culture=neutral, PublicKeyToken=null
+Assembly: ButtonManager, Version=1.0.1.1, Culture=neutral, PublicKeyToken=null
+Assembly: KSP_ColorPicker, Version=1.1.0.5, Culture=neutral, PublicKeyToken=null
+Assembly: KSP_PartHighlighter, Version=1.1.0.10, Culture=neutral, PublicKeyToken=null
+Assembly: SpaceTuxUtility, Version=1.0.1.4, Culture=neutral, PublicKeyToken=null
+Assembly: VesselModuleSave, Version=1.0.1.2, Culture=neutral, PublicKeyToken=null
+Assembly: KSPSteamCtrlr, Version=0.0.1.35, Culture=neutral, PublicKeyToken=null
+Assembly: SXTContinued, Version=0.3.30.0, Culture=neutral, PublicKeyToken=null
+Assembly: TimeControl, Version=2.11.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: TweakScaleSafetyNet, Version=3.2.4.0, Culture=neutral, PublicKeyToken=null
+Assembly: Scale, Version=3.2.4.0, Culture=neutral, PublicKeyToken=null
+
+[Log 01:50:29.6236287]: FlightEngineerCore->Awake
+[Log 01:50:33.0844831]: FlightEngineerCore->Start
+[Log 01:51:31.4588399]: BuildAdvanced->OnDestroy
