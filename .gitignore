@@ -38,12 +38,19 @@
 /ZTheme/
 /zzz_Deferred/
 /BDArmory/Logs/
+/FShangarExtender
+
+/SmartParts/Parts/@thumbs
+/ModeratelyPlaneRelated/Parts/@thumbs
+/AirplanePlus/Parts/@thumbs
+/ASC/Parts/@thumbs
+/BDArmory/Parts/@thumbs
+/Kerbaltek/Graphotron/Parts/@thumbs
 
 /ModuleManager.ConfigCache
 /ModuleManager.ConfigSHA
 /ModuleManager.Physics
 /ModuleManager.TechTree
-/toolbar-settings.dat
 
 #!TweakScale/patches/Squad/
 #!TweakScale/patches/SquadExpansion/
