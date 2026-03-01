@@ -1,17 +1,3 @@
-2.21.0
-    Adoption by Linuxgurugamer
-    Added InstallChecker and AssemblyVerison.tt
-    Fix bug where a null entry in the renderers would throw an exception
-    Thanks to github user @Scialytic for this:
-        PR originally submitted to original repo:
-            QoL improvements for parts with a large number of subtypes
-    Thanks to github user @StonesmileGit for this:
-        PR originally submitted to original repo:
-            Handle ModuleFuelTanks nodes
-
-2.20.0.0
-    Placeholder
-
 ### v2.20.0
 
 * Recompile against KSP 1.12.3
